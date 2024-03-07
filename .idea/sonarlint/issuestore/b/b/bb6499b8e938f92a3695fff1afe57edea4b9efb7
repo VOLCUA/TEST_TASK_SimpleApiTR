@@ -1,0 +1,15 @@
+
+n	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(½ ·ðýÿÿÿÿ8 …š³á1
+:php:S113"'Add a new line at the end of this file.8 …š³á1
+y	php:S1192"XDefine a constant instead of duplicating this literal "FORM\FORM_FormInput.php" 3 times.(…ø™çøÿÿÿÿ8 …š³á1
+]	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(Ñ¯€’þÿÿÿÿ8 …š³á1
+r	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(šê¸„ÿÿÿÿÿ8 …š³á1
+r	php:S4833	"QReplace "include_once" with namespace import mechanism through the "use" keyword.(äŒž¿ÿÿÿÿÿ8 …š³á1
+l	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(š•õW8 …š³á1
+m	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(Äû™ž8¡…š³á1
+r	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(…ø™çøÿÿÿÿ8¡…š³á1
+r	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(…ø™çøÿÿÿÿ8¡…š³á1
+r	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(•Ÿí þÿÿÿÿ8•¦š³á1
+l	php:S4833#"QReplace "include_once" with namespace import mechanism through the "use" keyword.(š•õW8éàŸ³á1
+r	php:S4833$"QReplace "include_once" with namespace import mechanism through the "use" keyword.(…ø™çøÿÿÿÿ8‘‹ ³á1
+r	php:S4833%"QReplace "include_once" with namespace import mechanism through the "use" keyword.(•Ÿí þÿÿÿÿ8‘”Í³á1
