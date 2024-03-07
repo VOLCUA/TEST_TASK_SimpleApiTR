@@ -5,6 +5,10 @@ include_once 'config.php';
 if (isset($_GET['api'])) {
     switch (strtolower($_GET['api'])) {
 
+        case 'info':
+            include_once 'API\API_info.php';
+            break;
+
         case 'forminput':
             include_once 'API\API_FormInput.php';
             break;
